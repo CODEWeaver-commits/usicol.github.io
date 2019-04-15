@@ -1,0 +1,3 @@
+.panel {border: black solid 3px; width: 150px;}
+.panel > .title {background: black; align-content: center;}
+.panel > .body {padding: 4px;}
